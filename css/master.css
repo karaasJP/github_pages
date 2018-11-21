@@ -12,7 +12,14 @@ a {
   transform: translateY(-50%) translateX(-50%);
   -webkit- transform: translateY(-50%) translateX(-50%);
   text-align: center;
+
   border: solid 1px #aaaaaa;
+
+	/* padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #e6fbff;
+    box-shadow: 0px 0px 0px 10px #e6fbff;
+    border: dashed 2px white; */
 }
 
 .links {
